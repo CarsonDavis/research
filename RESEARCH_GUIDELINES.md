@@ -40,6 +40,10 @@ For comparison research (evaluating multiple options):
 2. **Prioritize quality sources** - Target reputable sites for the domain (journals, official docs, expert forums)
 3. **Run multiple searches** - Different angles surface different findings
 4. **Note contradictions** - When sources disagree, capture both views
+5. **Match source age to topic velocity**:
+   - Fast-moving fields (tech, pricing, current events) → prioritize recent sources
+   - Stable domains (history, established science) → older authoritative sources still valuable
+   - Mixed topics → recent for current state, older for foundational context
 
 ### Adding to Background Files
 
