@@ -512,6 +512,8 @@ dependencies = [
     { name = "aiohttp" },
     { name = "beautifulsoup4" },
     { name = "lxml" },
+    { name = "matplotlib" },
+    { name = "pandas" },
     { name = "tqdm" },
 ]
 
@@ -520,6 +522,8 @@ requires-dist = [
     { name = "aiohttp", specifier = ">=3.13.2" },
     { name = "beautifulsoup4", specifier = ">=4.14.3" },
     { name = "lxml", specifier = ">=6.0.2" },
+    { name = "matplotlib", specifier = ">=3.10.8" },
+    { name = "pandas", specifier = ">=2.3.3" },
     { name = "tqdm", specifier = ">=4.67.1" },
 ]
 

@@ -1,0 +1,74 @@
+============================================================
+GENRE ANALYSIS SUMMARY
+============================================================
+
+OVERVIEW
+----------------------------------------
+Total books: 630
+Unique genres: 264
+Rated books: 506
+Average rating: 3.57
+
+FICTION VS NON-FICTION
+----------------------------------------
+Fiction: 363 (57.6%)
+Non-Fiction: 267 (42.4%)
+
+TOP 20 GENRES BY BOOK COUNT
+----------------------------------------
+Fiction: 381
+Audiobook: 364
+Fantasy: 310
+Nonfiction: 237
+Science Fiction: 168
+History: 150
+Science Fiction Fantasy: 132
+Science: 131
+High Fantasy: 87
+Classics: 82
+Magic: 82
+Epic Fantasy: 76
+Young Adult: 72
+Adventure: 68
+Humor: 63
+Adult: 61
+Philosophy: 61
+Book Club: 56
+Religion: 51
+Politics: 49
+
+TOP 20 GENRES BY AVERAGE RATING (min 3 books)
+----------------------------------------
+Natural History: 4.67 (3 books)
+Art Design: 4.67 (3 books)
+Language: 4.50 (4 books)
+Design: 4.50 (4 books)
+Magical Realism: 4.33 (6 books)
+Popular Science: 4.30 (10 books)
+Satire: 4.25 (4 books)
+Graphic Novels: 4.25 (4 books)
+Reference: 4.21 (14 books)
+Feminism: 4.20 (5 books)
+Travel: 4.20 (5 books)
+Comics: 4.20 (5 books)
+Short Stories: 4.11 (18 books)
+Japan: 4.11 (9 books)
+Russia: 4.00 (5 books)
+School: 4.00 (13 books)
+Genetics: 4.00 (3 books)
+Memoir: 4.00 (12 books)
+Medieval: 4.00 (3 books)
+Medieval History: 4.00 (3 books)
+
+LOWEST RATED GENRES (min 3 books)
+----------------------------------------
+Christian: 1.67 (3 books)
+Animals: 2.40 (5 books)
+Time Travel: 2.71 (7 books)
+Queer: 2.83 (6 books)
+Paranormal: 2.83 (6 books)
+Alternate History: 2.86 (7 books)
+LGBT: 3.00 (7 books)
+Environment: 3.00 (3 books)
+Childrens: 3.00 (4 books)
+Thriller: 3.14 (14 books)
