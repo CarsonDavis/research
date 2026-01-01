@@ -93,29 +93,33 @@ This reader is stingy with stars:
 ## What They Love
 
 ### Immersion & World-Building
-- **Thrown into weird worlds head first** - "I always love a book that can throw you into a weird and grungy world head first" (Roadside Picnic)
-- **Unique premises** - Library at Mount Char praised for being "unique"
+- **Thrown into weird worlds head first** - Roadside Picnic: "I always love a book that can throw you into a weird and grungy world head first"; Tainted Cup: "you are just kind of thrown into it blind"; Ted Chiang: "never babies you into a story, he immerses you in the world and lets you swim"; Piranesi: "takes you softly by the hand and smiles to show you its secrets"
+- **Creeping revelation** - Piranesi: "The creeping revelation of quiet madness in a nourishing world. The casual unfolding of Piranesi's ignorance"; Perdido Street Station: "details of the world are casually and naturally concealed from the reader until suddenly you're like, holy shit, wait, she's a fucking insect!?"
+- **Sublime world revelation** - Perdido Street Station: "An absolutely sublime method of world revelation...You see the world through the character's eyes, and if it isn't something they would have thought to comment on, then they don't"; Snow Crash critique: would have preferred "this world revealed organically in the manner of Perdido Street Station"
+- **Unique premises** - Library at Mount Char praised for being "unique"; Shades of Grey: "lighthearted, unique, and slightly funny"; The Hike: "Unique and interesting"; Perdido Street Station: "fantasy world itself was quite interesting, and hardly derivative"
 
 ### Authorial Trust
-- **Authors who don't hold your hand** - Great Gatsby: "author never feels the need to hold your hand. You learn that Gatsby is involved in shady business not because it is ever said out right, but through an accumulation of little evidences"
-- **Suggestive rather than explicit** - Buffalo Hunter Hunter: "turns of phrase that are very suggestive without needing to spell everything out for you"
+- **Authors who don't hold your hand** - Great Gatsby: "author never feels the need to hold your hand"; Buffalo Hunter Hunter: "I hugely appreciate an author that doesn't feel the need to hold your hand"; Ted Chiang: immersion without explanation
+- **Suggestive rather than explicit** - Buffalo Hunter Hunter: "turns of phrase that are very suggestive without needing to spell everything out for you"; Great Gatsby: "through an accumulation of little evidences"
 
 ### Character Consistency
-- **Characters whose actions match their personality** - The Incandescent: "At no point do you feel like the characters are making decisions that someone with that personality wouldn't really make"
-- **Characters that feel real, not caricatures** - Great Gatsby: "amazing how awful all these people are, and yet how the author makes them seem somehow real"
+- **Characters whose actions match their personality** - The Incandescent: "At no point do you feel like the characters are making decisions that someone with that personality wouldn't really make"; Leviathan Wakes: "characters and writing were excellent"; Player of Games: "characters engaging and believable"
+- **Characters that feel real, not caricatures** - Great Gatsby: "amazing how awful all these people are, and yet how the author makes them seem somehow real"; Demon Copperhead: "complicated, captivating characters"; Poisonwood Bible: characters deeply cutting and moving
 
 ### Structure & Payoff
-- **Ambiguous endings** - "I really loved the ambiguous ending" (Roadside Picnic)
-- **Satisfying closure** - Library at Mount Char: "satisfying plot and good closure"
-- **Good suspense/tension building** - praised in Library at Mount Char
+- **Ambiguous endings** - Roadside Picnic: "I really loved the ambiguous ending"
+- **Satisfying closure** - Library at Mount Char: "satisfying plot and good closure"; Children of Time: "nice resolution"; Paper Menagerie's "The Regular": "simply an enjoyable story with a satisfying ending"
+- **Good suspense/tension building** - Library at Mount Char; Rebecca: "Amazing use of tension"; Sparrow: "constant undercurrent of dread"; Lightbringer: "put actual dread in my chest"
 
 ### Writing Quality
 - **Good writing can make up for flaws** - "good writing speaks for itself, and it can make up for innumerable flaws" (Buffalo Hunter Hunter)
+- **Mastery of language** - Pride and Prejudice: "Cutting wit matched only by a delightful mastery of the english language. Austen could tell me a 600 page story about paint drying and I would be enthalled"; Lolita: "It simply cannot be overstated how masterfully Nabokov's words illustrate his rancid portraits"
+- **Words as craft** - Lolita: "He is a twisted sculptor of words, erecting endless masterpieces to astonish and horrify"; "Under his deft pen, the english language is warped to make the normal disgusting, and the disgusting rational"
 
 ### Emotional Impact
-- **Books that make them cry** - Paper Menagerie: "I cried", Playground: "I cried then at the sadness"
-- **Dark stories** - Paper Menagerie: "I guess I just like dark stories, and this is darker than most"
-- **Internal monologue / first person** - Rebecca: "I just love the scenes where she is completely in her own head"
+- **Books that make them cry** - Paper Menagerie: "I cried"; Playground: "I cried then at the sadness"; Demon Copperhead: "too numb at the gnawing pain to feel the tear"; Poisonwood Bible: "I cried a couple times"; Three Body Problem ch 1: "I cried with the final words"
+- **Dark stories** - Paper Menagerie: "I guess I just like dark stories, and this is darker than most"; explores "dehumanizing effect of politics and the state"
+- **Internal monologue / first person** - Rebecca: "I just love the scenes where she is completely in her own head"; Forest of Wool and Steel: "speaks to me like a gentle water colour"
 
 ### Endings
 - **Surprising but inevitable** - Ted Chiang: "One of the things we admire most in fiction is an ending that is surprising but inevitable"
@@ -167,29 +171,28 @@ This reader is stingy with stars:
 ### Deal-Breakers
 *These can ruin an otherwise good book*
 
-- **Characters acting against their nature for plot** - Infinity Gate: "this author writes his characters however he has to so that plot can happen"
-- **"Smart" characters written dumb** - Infinity Gate: "There is a unique pain in reading 'smart' characters written by morons", Binti: supposed expert "totally neglects to engage in any meaningful conversation"
-- **Internal inconsistency** - Infinity Gate: "it's not even internally consistent, much less externally consistent"
-- **Plot holes / manufactured conflict** - Infinity Gate: "full of obvious holes, where there are really obvious ways a character or society would act, but they simply don't"
-- **Told not shown** - Binti: "Her isolation was told, not felt"
+- **Characters acting against their nature for plot** - Infinity Gate: "this author writes his characters however he has to so that plot can happen"; Dark Matter: "painfully bad choices from the characters that clearly didn't line up with even slightly considered decisions"; Semiosis: "characters are all kinda shallow and make decisions that don't seem real"
+- **"Smart" characters written dumb** - Infinity Gate: "There is a unique pain in reading 'smart' characters written by morons"; Binti: supposed expert "totally neglects to engage in any meaningful conversation"; Name of the Wind: prodigy who inexplicably becomes "useless twat" for three years
+- **Internal inconsistency** - Infinity Gate: "it's not even internally consistent, much less externally consistent"; Dark Forest: "Lame plot holes"
+- **Plot holes / manufactured conflict** - Infinity Gate: "full of obvious holes"; Semiosis/Interference: "Plot happens because the author wants it to, not because it arises naturally out of character and setting"; Dark Matter: "transparent desire to squeeze action into the plot through forced narrative"
+- **Told not shown** - Binti: "Her isolation was told, not felt"; Lost in Time: "seemingly incapable of communicating a character's thoughts through anything except bland information sessions"
 
 ### Pet Peeves
 
-- **Virtue signaling** - Infinity Gate: "holy virtue signaling batman"
+- **Virtue signaling** - Infinity Gate: "holy virtue signaling batman"; Foundation: "weird virtue signaling"; Wind and Truth: "weird therapist virtue signaling"
 - **Breaking immersion with narration choices** - Alien Clay: fourth wall breaks "clumsily take me out of the story and remove elements of suspense"
-- **Fizzling after strong setup** - Divine Rivals: "after the big reveal, I rather felt all the tension had gone"
-- **Over-explanation / hand-holding** - Exhalation: "He really held the reader's hand throughout the stories, force-feeding you the philosophy", "author didn't trust his audience to take the right message"
-- **Telegraphed twists** - Foundation: "surprise twist was obvious from almost as soon as they met the fool"
+- **Fizzling after strong setup** - Divine Rivals: "after the big reveal, I rather felt all the tension had gone"; Crystal City: "long built-up relationships and conflicts just fizzled out pitifully"
+- **Over-explanation / hand-holding** - Exhalation: "He really held the reader's hand throughout the stories, force-feeding you the philosophy"; Snow Crash: "every little joke or pun is painfully spelled out"; Bourne Identity: "Holy info-dump batman!"
+- **Telegraphed twists** - Foundation: "surprise twist was obvious from almost as soon as they met the fool"; Fairy Tale: "tells you what will happen, kills suspense"; Licanius: "went out of their way to ruin it completely"
 - **Convenient plot devices** - Jane Eyre: "his wife conveniently dies, then she conveniently becomes rich"
 - **Philosophy over characters** - The Dispossessed: "characters and plot take a real back seat to political philosophy"
 - **Therapy/mental health shoehorned in** - Wind and Truth: "All the mental health stuff is just so clumsy and on the nose", "weird therapist virtue signaling"
 - **Erratic power levels** - Shadow and Bone: "sometimes Alina cuts off the top of a whole fucking mountain, sometimes a weak thug in an alley easily overpowers her"
 - **Deaths that don't stick** - Shadow and Bone: "the prince's death didn't stick. And Mal's death didn't stick"
-- **Manufactured conflict from lack of communication** - Expanse: characters who could easily solve problems by talking
+- **Manufactured conflict from lack of communication** - Expanse: characters who could easily solve problems by talking; Interference: "They burn the corals to death instead of talking to them"; Royal Assassin: "HATE this ridiculous romantic conflict arising from miscommunication trope"; Discovery of Witches: "ridiculous fast" relationship progressions
 - **Anti-technology themes** - Expanse: "the insistent anti-technology themes are infuriating"
-- **Authors who don't kill main characters** - Expanse: "author doesn't know how to kill a main character"
-- **Modern commentary shoehorned into historical settings** - Amina al-Sirafi: "clearly modern commentary and handling of social issues that are delicate even in today's enlightened society was jarring"
-- **Miscommunication as primary conflict driver** - Royal Assassin: "HATE this ridiculous romantic conflict arising from miscommunication trope"
+- **Authors who don't kill main characters** - Expanse: "author doesn't know how to kill a main character"; Shadow and Bone: deaths that don't stick
+- **Modern commentary shoehorned into historical settings** - Amina al-Sirafi: "clearly modern commentary...was jarring"; Broken Earth: "suddenly feel preached to in the middle of a novel about magic earthquake wizards"
 - **Manufactured violence** - Shadow of the Gods: "manufactured action, and not of well-considered plot"
 - **Excessive revenge plots** - Shadow of the Gods: "FIVE of them are driven by a revenge plot or another"
 - **Frenemies trope in book 2** - Ashes & Star-Cursed King: "Why does book two of every romance series have to be frenemies"
@@ -213,9 +216,10 @@ This reader is stingy with stars:
 ### Red Flags
 *Patterns that predict dislike*
 
-- **Female characters existing only for sex appeal** - Princess Bride: "Every female character in the entire novel is somehow utilized for her sex appeal"
-- **Not compelling/exciting/funny/thoughtful** - Princess Bride: "Novels should be interesting or compelling or exciting or thoughtful or funny, or anything damn it"
-- **Objectively good but personally unenjoyable** - Buffalo Hunter Hunter: "3 stars because it was objectively good but I just didn't enjoy it" (this is a 3-star pattern, not necessarily a red flag)
+- **Female characters existing only for sex appeal** - Princess Bride: "Every female character in the entire novel is somehow utilized for her sex appeal"; Name of the Wind: "every female character manages to be the object of one male fantasy or another"
+- **Not compelling/exciting/funny/thoughtful** - Princess Bride: "Novels should be interesting or compelling or exciting or thoughtful or funny, or anything damn it"; Parable of the Sower: "it just...wasn't engaging"
+- **One-dimensional characters** - Crystal City: "woefully one-dimensional, like a moralizing children's tale"; Clockwork Angel: "writes about human emotions as if she's a newly sentient slime mold"
+- **Cliché/derivative** - Licanius: "too constantly cliche, like it was sadly aping better fiction"; Morningwood: trashy derivative writing
 
 ---
 
@@ -239,12 +243,16 @@ This reader is stingy with stars:
 
 ### Preferred
 
-- **Ambiguous endings** - "I really loved the ambiguous ending" (Roadside Picnic)
-- **Satisfying closure** - Library at Mount Char praised for wrapping up nicely
+- **Ambiguous endings** - Roadside Picnic: "I really loved the ambiguous ending"
+- **Satisfying closure** - Library at Mount Char: wrapping up nicely; Children of Time: "nice resolution"; Paper Menagerie stories with "satisfying ending"
+- **Tragic/earned sad endings** - Flowers for Algernon: "beautifully tragic"; Paper Menagerie: heartbreaking endings; Demon Copperhead: "leaves you hollowed out inside"
+- **Surprising but inevitable** - Ted Chiang: "ending that is surprising but inevitable"
 
 ### Hated
 
-- (need more data)
+- **Convenient/forced happy endings** - Jane Eyre: "wife conveniently dies, then she conveniently becomes rich"; The Road: "such a forced, unbelievable, and happy ending was just too out of place"
+- **Deaths that don't stick** - Shadow and Bone: "the prince's death didn't stick. And Mal's death didn't stick"
+- **Fizzled endings** - Divine Rivals: "after the big reveal, I rather felt all the tension had gone"; Crystal City: conflicts "fizzled out pitifully"
 
 ---
 
@@ -252,14 +260,16 @@ This reader is stingy with stars:
 
 ### Loved
 
-- **Characters who feel real** - Great Gatsby: "amazing how awful all these people are, and yet how the author makes them seem somehow real, instead of trivial caricatures"
-- **Characters whose actions match personality** - The Incandescent praised for this
+- **Characters who feel real** - Great Gatsby: "amazing how awful all these people are, and yet how the author makes them seem somehow real"; Demon Copperhead: "complicated, captivating characters"; Poisonwood Bible: deeply cutting
+- **Characters whose actions match personality** - The Incandescent praised for this; Leviathan Wakes: "characters...were excellent"; Player of Games: "characters engaging and believable"
+- **Morally complex/grey characters** - Handmaid's Tale: "no purely evil characters, and no purely good ones"; Lightbringer: "put characters you like in positions of vulnerability or moral ambiguity"
 
 ### Hated
 
-- **"Smart" characters written dumb** - Infinity Gate: "unique pain in reading 'smart' characters written by morons"
-- **Female characters as sex objects only** - Princess Bride: every female exists for sex appeal
-- **Characters who don't act on obvious solutions** - Binti: FMC doesn't ask basic questions, Infinity Gate: scientist doesn't use obvious solutions
+- **"Smart" characters written dumb** - Infinity Gate: "unique pain in reading 'smart' characters written by morons"; Binti: supposed expert fails basic logic; Name of the Wind: prodigy inexplicably useless for years
+- **Female characters as sex objects only** - Princess Bride: every female exists for sex appeal; Name of the Wind: "every female character manages to be the object of one male fantasy or another"
+- **Characters who don't act on obvious solutions** - Binti: FMC doesn't ask basic questions; Infinity Gate: scientist doesn't use obvious solutions; Interference: "burn the corals to death instead of talking to them"
+- **One-dimensional characters** - Crystal City: "woefully one-dimensional, like a moralizing children's tale"; Clockwork Angel: slime mold writing; Death's End: "I cannot tell you how much I hate the main character"
 
 ---
 
