@@ -49,3 +49,14 @@
 
 ## Message 16
 > we're missing something in our research guidelines. if there is something where we need to sus out user requirements we should start by asking a short list of probing questions and creating a requirments md
+
+# Adding Chat Log Guidelines
+
+## Message 17
+> i want to update our claude.md to have instructinos on how to make a chat log, and then make a chatlog file instruction. check the repo for how to do it and see what we've already been doing with all our files and stuff. then add my messages here to the main chat log
+
+## Message 18
+> what are you doing. make a dedicated file and link it. don't pollute our claude
+
+## Message 19
+> ok, let's add some details that specify that if we are logging in a conversation, and there is an existing chat log we should give the new section a title and add on to it. like, "Clarify ...." "Build Book Recommender System"
