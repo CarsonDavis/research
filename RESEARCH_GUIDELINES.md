@@ -10,6 +10,7 @@ Each topic gets its own folder. Research happens in two phases: gather everythin
 
 ```
 {topic}/
+├── requirements.md    # User constraints and context (if needed)
 ├── background.md      # Raw research notes, citations, excerpts
 └── report.md          # Final distilled writeup
 ```
@@ -23,6 +24,23 @@ For comparison research (evaluating multiple options):
 ├── {option_2}.md
 └── comparison_report.md   # Final analysis
 ```
+
+## Requirements Gathering
+
+If the research topic is ambiguous or has unstated constraints, clarify before diving in.
+
+1. **Ask probing questions** - Short list, focused on what will shape the research
+2. **Create requirements.md** - Capture the answers so they don't get lost
+3. **Then start research** - Now you know what you're actually looking for
+
+Examples of things to clarify:
+- Budget or price constraints
+- Must-have vs nice-to-have features
+- Timeline or urgency
+- Specific use case or context
+- Who the output is for
+
+Skip this step if the request is already clear and specific.
 
 ## Research Phase
 
