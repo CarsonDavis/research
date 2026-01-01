@@ -61,13 +61,41 @@ book-recommendations/
 │   ├── goodreads_export_raw.csv   # Original Goodreads export
 │   ├── read_books.csv             # Cleaned (read books only)
 │   └── read_books_with_genres.csv # With scraped genres
+├── output/                        # Generated visualizations
+│   ├── genre_histogram.png
+│   ├── fiction_breakdown.png
+│   ├── rating_by_genre.png
+│   └── stats.txt
 ├── goodreads/
 │   ├── __init__.py
 │   ├── clean.py      # Export conversion
 │   ├── scrape.py     # Genre scraping (async)
+│   ├── analyze.py    # Genre analysis and visualization
 │   └── cli.py        # Command-line interface
 └── README.md
 ```
+
+### 3. Analyze Genres
+
+Generates visualizations and statistics from genre data.
+
+```bash
+uv run python -m goodreads analyze <input.csv> <output_dir>
+```
+
+**Input**: CSV with genres column (from 'genres' command)
+**Output**: Directory containing:
+- `genre_histogram.png` - Bar chart of books per genre
+- `fiction_breakdown.png` - Pie chart of fiction vs non-fiction
+- `rating_by_genre.png` - Average rating per genre
+- `stats.txt` - Summary statistics
+
+**Statistics generated**:
+- Total books and unique genres
+- Fiction vs non-fiction counts and percentages
+- Average rating by genre (sorted)
+- Top genres by book count
+- Top genres by average rating (min 3 books)
 
 ## Example Workflow
 
@@ -77,4 +105,7 @@ uv run python -m goodreads clean data/goodreads_export_raw.csv data/read_books.c
 
 # Add genres
 uv run python -m goodreads genres data/read_books.csv data/read_books_with_genres.csv
+
+# Analyze genres
+uv run python -m goodreads analyze data/read_books_with_genres.csv output/
 ```

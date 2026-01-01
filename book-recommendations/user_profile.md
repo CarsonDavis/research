@@ -41,6 +41,10 @@ This reader is stingy with stars:
 - **Children of Time** (Adrian Tchaikovsky) - "whoa, so good. good story, interesting characters, good plot, nice resolution, real sense of danger"
 - **Piranesi** (Susanna Clarke) - "Gentle and captivating", "creeping revelation of quiet madness"
 - **The Blinding Knife / Broken Eye** (Brent Weeks) - "put actual dread in my chest", knows how to write cliffhangers
+- **The Martian** (Andy Weir) - 5 stars
+- **The Giver** (Lois Lowry) - 5 stars
+- **I Have No Mouth and I Must Scream** (Harlan Ellison) - "among my favorite short stories"
+- **The Forest of Wool and Steel** (Natsu Miyashita) - "wonderful and captivating", "speaks to me like a gentle water colour"
 
 ### A-Tier (Loved)
 *Solid 4-star books, would recommend*
@@ -128,6 +132,7 @@ This reader is stingy with stars:
 ### Magic/World Systems
 - **Well-considered systems** - Scholomance: "author spent some genuine time thinking about the magic system and its repercussions"
 - **Systems that explain why the world works** - Scholomance: magic belief mechanic "neatly explains why wizards aren't constantly exploiting the normal world"
+- **Clear limits on powers** - Earthsea: magic system "so effortlessly sets up limits on the powers of the characters"
 
 ### Guilty Pleasures
 - **Trash but fun** - He Who Fights with Monsters: "exciting, they are fun, they are trash, they are only average writing...but I just can't put them down"
@@ -142,9 +147,6 @@ This reader is stingy with stars:
 - **Legendary, antique quality** - Earthsea: "like a story passed down from another age"
 - **Understated descriptions** - Earthsea: "captures so much of the essence...without ever belaboring the point"
 - **Cutting wit** - Pride and Prejudice: "Cutting wit matched only by a delightful mastery of the english language"
-
-### Magic/World Systems
-- **Clear limits on powers** - Earthsea: magic system "so effortlessly sets up limits on the powers of the characters"
 
 ### Thematic Depth
 - **Loneliness as theme** - Circe: "a book about loneliness. About womanhood, and motherhood, and longing"
@@ -228,12 +230,12 @@ This reader is stingy with stars:
 | Element | Tolerance | Notes |
 |---------|-----------|-------|
 | Slow pacing | **High** | Playground: "slow start...I'm glad I didn't quit" - willing to power through if payoff is good |
-| Dense writing | ? | (need more data) |
+| Dense writing | **Medium** | Tolerates if content is worth it (Perdido), but prefers accessible. Mao's Great Famine "a slog" |
 | Unrealistic elements | **Low** | Major complaint pattern - characters/worlds must behave believably |
 | Heavy-handed themes | **Low** | "virtue signaling" complaints, over-explanation complaints |
-| Series length | ? | (need more data) |
+| Series length | **High** | Will commit to 10+ book series. Read 12 He Who Fights, 6 Murderbot despite declining quality |
 | Dated gender attitudes | **Medium** | Notes it but can tolerate if book has other merits (Roadside Picnic: "small enough part of the book to not bother me overmuch") |
-| Romance/relationships | ? | (need more data) |
+| Romance/relationships | **Medium** | Wants believable development. Hates miscommunication conflict, frenemies trope, instant love |
 | Gore | **Medium** | Kaiju: "At times the gore was a bit too much for me, I skipped a couple parts" |
 | Trash but fun | **High** | He Who Fights: "trash...but I just can't put them down" - tolerates if self-aware |
 
@@ -277,12 +279,15 @@ This reader is stingy with stars:
 
 | Genre | Affinity | Notes |
 |-------|----------|-------|
-| Science Fiction | ? | |
-| Fantasy | ? | |
-| Literary Fiction | ? | |
-| Historical Fiction | ? | |
-| Romance/Romantasy | ? | |
-| Horror | ? | |
+| Science Fiction | **High** | Reads heavily (168 books). Mixed results - loves hard SF with good characters (Leviathan Wakes, Children of Time, Ted Chiang) but hates dumb characters in smart settings (Infinity Gate, Three Body) |
+| Fantasy | **Very High** | Most-read genre (310 books). Strong hit rate with epic fantasy (Sanderson, Weeks, Abercrombie) and literary fantasy (Earthsea, Piranesi, Circe). Dislikes derivative/cliché entries |
+| Literary Fiction | **Very High** | Consistently high ratings. Pride and Prejudice, Great Gatsby, Rebecca, Remains of the Day, Lolita all 4-5 stars. Values prose mastery |
+| Short Stories | **Very High** | Avg 4.11 rating (18 books). Ted Chiang, Ken Liu, Harlan Ellison all S-Tier. "endings rarely disappoint" |
+| Historical Fiction | **High** | Guy Gavriel Kay, Circe well-received. Values immersion in period |
+| Romance/Romantasy | **Low-Medium** | Skeptical but surprisable. Fourth Wing worked: FMC pushes back on toxic behavior, healthy relationship building, "biting my lip." Princess Bride failed: "cheap and obvious love", female characters as sex appeal. Hates frenemies trope, instant love, miscommunication conflict. Six of Crows also surprised positively |
+| Horror | **Medium** | Limited data. Prefers psychological over gore (Kaiju gore "too much"). Likes creeping dread |
+| YA | **Low** | Generally skeptical ("Since when was YA not absolutely terrible?") but can be surprised (Six of Crows, Scholomance) |
+| LitRPG/Progression | **Medium** | Mixed bag. Dungeon Crawler Carl is quality: "humor of Portal and absurdity of Hitchhiker's", explicitly recommended. He Who Fights/Cradle are guilty pleasures: "trash but fun", won't recommend but enjoys. Series fatigue common (DCC declined from 4s to 3s) |
 
 ---
 
@@ -290,11 +295,42 @@ This reader is stingy with stars:
 
 ### Favorites
 
-(processing...)
+- **Ted Chiang** - "masterful", "engaging and well-written", endings "surprising but inevitable", never babies you
+- **Ken Liu** - "excellent", darker and more emotional than Chiang, made them cry
+- **Ursula K. Le Guin** - Earthsea "immediately in my top 10", "writing style is absolutely sublime"
+- **Jane Austen** - Pride and Prejudice "Cutting wit matched only by a delightful mastery of the english language"
+- **Daphne du Maurier** - Rebecca "amazing use of tension and first person writing"
+- **Kazuo Ishiguro** - Remains of the Day (5 stars, favorite Ishiguro)
+- **Brandon Sanderson** - "everything that epic fantasy should be", well-considered magic systems
+- **Brent Weeks** - Lightbringer "put actual dread in my chest", knows how to write cliffhangers
+- **Joe Abercrombie** - "Excellent", relationships ruined for genuine reasons, not miscommunication
+- **China Miéville** - Perdido "absolutely sublime method of world revelation"
+- **Susanna Clarke** - Piranesi "gentle and captivating", "creeping revelation"
+- **Madeline Miller** - Circe "So. Good.", emotions "under the surface of quiet words"
+- **Guy Gavriel Kay** - "Lovely book", great POV shifts
+- **Jasper Fforde** - "shockingly good", Hitchhiker's humor
+- **Daniel Keyes** - Flowers for Algernon "beautifully tragic"
+- **Andy Weir** - The Martian (5 stars)
+- **Harlan Ellison** - I Have No Mouth "among my favorite short stories"
+- **Matt Dinniman** - Dungeon Crawler Carl "humor of Portal and absurdity of Hitchhiker's"
+
+### Mixed/Conditional
+
+- **Leigh Bardugo** - Six of Crows great, Shadow and Bone painful. Improves with experience
+- **Adrian Tchaikovsky** - Children of Time great, Alien Clay broke immersion
+- **Robert Jackson Bennett** - Tainted Cup great, City of Stairs "mediocre" early work
+- **Will Wight** - Cradle "finally come into his own" but early books nearly DNF'd
 
 ### Avoid
 
-(processing...)
+- **M.R. Carey** - Infinity Gate "transparently stupid", "smart characters written by morons"
+- **Martha Wells** - Murderbot "miserably fails to deliver", suffered through 6 books
+- **Cassandra Clare** - "writes about human emotions as if she's a newly sentient slime mold"
+- **Becky Chambers** - "clumsy writing", author preaching through characters
+- **Frank Herbert** - Dune "flat characters, weak plot", "rushes through interesting parts"
+- **Patrick Rothfuss** - Name of the Wind "self-indulgent male fantasy with weak characters"
+- **James Islington** - Licanius "clumsy", "constantly cliché, like it was sadly aping better fiction"
+- **Liu Cixin** - Three Body "I cannot tell you how much I hate the main character"
 
 ---
 
@@ -318,7 +354,7 @@ This reader is stingy with stars:
 
 ## Fiction - Already Read
 
-(processing...)
+*See `data/read_books_with_genres.csv` for complete list (~400 fiction titles)*
 
 ---
 
@@ -352,10 +388,6 @@ This reader is stingy with stars:
 - **Infidel** (Ayaan Hirsi Ali) - "absolutely floored", "haunting story sucked me in"
 - **Cannibals and Kings** (Marvin Harris) - "floored by the innovative clarity of his ideas"
 - **Codex Seraphinianus** (Luigi Serafini) - "Ridiculously cool"
-- **The Martian** (Andy Weir) - 5 stars
-- **The Giver** (Lois Lowry) - 5 stars
-- **I Have No Mouth and I Must Scream** (Harlan Ellison) - "among my favorite short stories"
-- **The Forest of Wool and Steel** (Natsu Miyashita) - "wonderful and captivating", "speaks to me like a gentle water colour"
 
 ### A-Tier (Loved)
 
@@ -422,7 +454,13 @@ This reader is stingy with stars:
 
 ## Writing Style Preferences
 
-(processing...)
+- **Narrative over academic** - Prefers readable storytelling to scholarly prose. Mao's Great Famine "a slog"
+- **Human connection** - Wild Swans preferred over Mao's Great Famine for providing "human understanding"
+- **Don't spoil chronology** - Longitude criticized for "spoiling every great moment hundreds of pages before its narrative conclusion"
+- **Multi-thread narratives** - Devil in White City praised for "weaving into a cohesive multi-thread narrative"
+- **Facts over speculation** - Entangled Life criticized for "speculation, philosophizing, and shoe-horned personal anecdotes"
+- **Science without dumbing down** - Singh "knows just how to tell a scientific story without grossly simplifying it"
+- **Quirky details** - Bryson's scientist anecdotes praised, influenced reader's own writing style
 
 ---
 
@@ -430,24 +468,47 @@ This reader is stingy with stars:
 
 | Topic | Affinity | Notes |
 |-------|----------|-------|
-| History | ? | |
-| Science | ? | |
-| Evolution/Anthropology | ? | |
-| Economics/Politics | ? | |
-| Philosophy | ? | |
-| Biography/Memoir | ? | |
+| History | **Very High** | Reads heavily (150 books). Loves narrative history (Hochschild, Grann, Larson). Hates dry/scholarly (Longitude). Values human understanding over facts |
+| Science/Popular Science | **Very High** | Avg 4.30 rating. Simon Singh, Bill Bryson, Kurzgesagt. Loves clear communication without over-simplifying |
+| Evolution/Anthropology | **Very High** | Many 5-stars (Selfish Gene, Before the Dawn, Cannibals and Kings). Reads anthropology for pleasure |
+| Religion/Biblical Studies | **High** | Bart Ehrman fan, Ingersoll "should be required reading", Hitchens. Critical/scholarly approach |
+| Philosophy/Ethics | **High** | Justice "rocked my world". Values perspective-shifting works |
+| Health/Medicine | **High** | Outlive, Why We Sleep both "tour de force". Wants actionable insights |
+| Biography/Memoir | **Medium-High** | Wild Swans, Infidel, Kitchen Confidential praised. Wants human connection, not just facts |
+| True Crime/Narrative NF | **High** | Grann (Wager, Killers), Larson (Devil in White City). Loves "insane true stories" |
+| Microhistory | **High** | Cheese and the Worms "absolutely engrossing". Return of Martin Guerre "delightful" |
 
 ---
 
 ## Author Affinities
 
-(processing...)
+### Favorites
+
+- **Richard Dawkins** - The Selfish Gene "one of the most intellectually impactful books I have ever read", read 3 times, owns 9 editions, bought countless copies for others
+- **Simon Singh** - Big Bang, Fermat's Enigma, Code Book - "never been disappointed with a Simon Singh book"
+- **Adam Hochschild** - "excellent as always", King Leopold's Ghost "incredible book", balanced and full-bodied
+- **Bart D. Ehrman** - Misquoting Jesus "best introduction to the subject", reliable biblical scholarship
+- **David Grann** - Wager "ton of fun", Killers "fascinating and horrifying", captivating true stories
+- **Erik Larson** - Devil in White City "has it ALL", excellent multi-thread narratives
+- **Bill Bryson** - Short History "quick and effortless", influenced reader's own writing style
+- **Robert G. Ingersoll** - Multiple 5-stars, "should be required reading"
+- **Christopher Hitchens** - God Is Not Great "absolute joy" when narrated by author
+- **Michael J. Sandel** - Justice "rocked my world", re-readable
+- **Carl Sagan** - Demon-Haunted World "one of my favorite pieces of rationalist literature"
+- **Peter Attia** - Outlive "tour de force on human health"
+- **Matthew Walker** - Why We Sleep "should be part of every school curriculum"
+
+### Avoid
+
+- **Ann Gibbons** - First Human "could make breaking news about invading aliens sound boring"
+- **Dava Sobel** - Longitude "200 page masterclass in making the interesting boring"
+- **Merlin Sheldrake** - Entangled Life - speculation and philosophizing overwhelmed facts
 
 ---
 
 ## Non-Fiction - Already Read
 
-(processing...)
+*See `data/read_books_with_genres.csv` for complete list (~230 non-fiction titles)*
 
 ---
 
@@ -496,35 +557,63 @@ This reader is stingy with stars:
 
 ### What Makes Them Binge
 
-(processing...)
+- **Dread/tension that carries over** - Lightbringer: "put actual dread in my chest and I felt physically uneasy even after stopping reading"
+- **Satisfying progressions** - Cradle advancements "top notch", power reveals that feel earned
+- **Cliffhangers done right** - Weeks "really knows how to write cliffhangers"
+- **Trash but addictive** - He Who Fights: "I just can't put them down"
+- **Mystery/suspense** - Library at Mount Char, Rebecca - tension that builds
 
 ### What Makes Them DNF
 
-(processing...)
+- **Boring despite interesting subject** - First Human: DNF at 60%, "could make breaking news about invading aliens sound boring"
+- **Generally pushes through** - Will finish declining series, skip gore sections rather than quit
+- **Close calls** - Mother of Learning "came very close to DNFing" but character arc improved
 
 ### Disappointment Pattern
 
-(processing...)
+- **Series fatigue** - Expanse "really don't wow me like the early ones did", Murderbot suffered through 6 books
+- **High expectations from premise** - Murderbot "miserably fails to deliver" on promising premise
+- **Sticking with authors who improve** - Shadow and Bone "painful" but finished because "I know the author improves"
+- **Completionist tendency** - Will finish series even when quality declines
 
 ---
 
 ## Recommendation Contexts
 
 ### Universal Recommendation
+*Would recommend to almost anyone*
 
-(processing...)
+- **A Short Stay in Hell** - "so short and novel that it is hard not to recommend"
+- **Stories of Your Life and Others** (Ted Chiang) - masterful short stories accessible to non-SF readers
+- **Flowers for Algernon** - "beautifully tragic", universally moving
+- **Pride and Prejudice** - "could tell me a 600 page story about paint drying and I would be enthalled"
+- **Return of Martin Guerre** - "short and interesting enough to make it an easy recommendation"
+- **Why Evolution Is True** - "can't go wrong recommending this" for science introduction
+- **Justice** (Sandel) - perspective-shifting for anyone
 
 ### Genre Fans Only
+*Good but requires genre context*
 
-(processing...)
+- **Words of Radiance / Stormlight** - "everything epic fantasy should be" (for epic fantasy readers)
+- **Leviathan Wakes** - "best science fiction I've read all year" (for SF readers)
+- **Lightbringer** - "put actual dread in my chest" (for fantasy readers who like dark)
+- **Six of Crows** - "solid recommendation" for YA fantasy readers
 
 ### Specific Audience
+*Right person would love it*
 
-(processing...)
+- **Perdido Street Station** - "definitely the sort of thing I would recommend to the right reader"
+- **Riyria Revelations** - "good, clean fun", "easy recommendation for fantasy lovers"
+- **Dungeon Crawler Carl** - "humor of Portal and absurdity of Hitchhiker's" for LitRPG fans
+- **Circe** - for readers who want "a book about loneliness" not "romping adventure"
 
 ### Heavy Caveats
+*Enjoyed but wouldn't broadly recommend*
 
-(processing...)
+- **He Who Fights with Monsters** - "trash...but I just can't put them down" - won't recommend but enjoys
+- **Cradle** - early books cringe, "came very close to DNFing" but worth it for later payoff
+- **Discovery of Witches** - "surprisingly fun" but relationship pacing issues
+- **Shades of Grey** - "shockingly good" but niche humor (Hitchhiker's + Giver)
 
 ---
 

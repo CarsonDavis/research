@@ -41,3 +41,63 @@
 
 ## Message 12
 > check this one for missing genres too, and populate as before, either with the old values or with newly searched ones
+
+# Build User Profile
+
+## Message 13
+> take a look at the anime recommendations. specifically the user profile. then think about how we can make a good user profile for books.
+
+## Message 14
+> alright. so one key thing here is there is a difference between non-fiction and fiction, we might want to treat them separately. secondly, i don't actually have reviews for all the books, nor do i have stars. if there is no star, we should ignore it - it's a subject im interested in (so we can use that to understand subjects i like) but we don't know if i liked the book. if it has stars, 5 stars is love and 4 stars is like a lot. i'm very stingy with stars. anything 4 or 5 was absolutely worth reading, but 5s are all time favoites. 2 and 1 are trash. 3 is not a negative rating. it means the book was average or there were a mix of good and bad things or it was good but i dont really want to recommend it to anyone. make sure you documnent how i do ratings. let's go ahead and creat the research guide with this in mind
+
+## Message 15
+> ok, we've added some preferences already in this guide. let's make sure and tag them as prefences we noticed from shows and movies, but not necessarily as preferences for books -- they should be discovered organically from my reviews
+
+## Message 16
+> ok, let's get started
+
+## Message 17
+> what do you mean you are going to process fiction chunk first? the fiction and non-fiction are mixed together
+
+## Message 18
+> continue
+
+## Message 19
+> ok, this is a great start. however, lots of our things i supposedly like and dislike have only one book that supports them. carefully go back through and add addional examples when possible
+
+## Message 20
+> for immersion, check piranesi and that one book about insect people. for writing quality, check pride and predjudice, maybe lolita? i'm sure there are others.
+
+## Message 21
+> no, not children of time. perdido street station
+
+## Message 22
+> log our chats
+
+# Genre Analysis Tool
+
+## Message 23
+> lake a look at book recommendations. i want you to write some python that can analyze generes. at a minimum, i want to see histogram of what generes i have read, plus a dedicated break down of fiction vs non-fiction. then i also want to see rating averages across genres. maybe you can suggest some other key statistics. add onto our existing python framework and documentation. there should be clean folders for output graphs
+
+## Message 24
+> log this
+
+# User Profile Refinements
+
+## Message 25
+> for your romantasy section, you should reference fourth wing and princess bride, in genre affinities
+
+## Message 26
+> no, read me the fourth wing and princess bride reviews. also, read me the dungeon crawler carl reviews
+
+## Message 27
+> now reevalaet dungeon crawler carl and the litrpg section
+
+## Message 28
+> ok, favorite authors is a little weak. we are missing pride and predjudice and have for some insane reason added will wright who is complete garbage for the first half of the series. double check all of my five star ratings
+
+## Message 29
+> how are you going to leave selfish gene out of the non-fiction section? reread the review
+
+## Message 30
+> log our recent stuff
