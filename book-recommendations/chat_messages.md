@@ -101,3 +101,47 @@
 
 ## Message 30
 > log our recent stuff
+
+# Design Recommendation System
+
+## Message 31
+> take a look at the user profile in books, and let's think about ways that we can generate book recommendations
+
+## Message 32
+> i like approaches 3 and 4. let's right up a detailed system incoporating the different elements. it should include things like how to do the searches, how to compile books, how to read a handful of reviews from goodreads in different star categories and filter against known hates, how to filter against already read books
+
+## Message 33
+> the plan is looking good. let's add some stuff though. we should always resolve to the first book in the series, and work off of books that are book 2 or something. also, we need to carefully log our raw findings for each candidate so that we never have to do it again. we should have a clean and minimal system for this that will allow later code to easy check the library of data. and in the future if we want to scrape additional reviews or change a criteria, that should be easy
+
+## Message 34
+> let's also remember that we are building tools which will be called by an LLM (you) so we will have some pieces which are pure python and other which you evaluate. primarily, i'm thinking that you can generate the detailed list of search terms, which will then be executed pythonically to generate raw candidates. then you can go through and summarize and consolidate candidate reviews and move on with the recommending. make sure to add this execution flow into our proposed system
+
+## Message 35
+> log this
+
+# Implement Python Recommendation Module
+
+## Message 36
+> take a look at our book recommendations reccomentadtion system and let's start planning out the python portions
+
+## Message 37
+> test it out a bit and make sure everything works
+
+## Message 38
+> excellent. let's create some clean and simple documentation on the pipeline as a whole and how to use it. it doesn't need implementation details, just usage examples. this will be what the llm reads so it can orchestrate effectively
+
+## Message 39
+> log this convo
+
+## Message 40
+> some questions from my reviewer:
+>   1. Series resolution — The doc doesn't mention handling series. When I add a candidate that's Book 2+, does scrape-candidates automatically resolve to Book 1, or should I do that manually before adding?
+>   2. Batch analysis helper — The Phase 3 workflow shows reading one book at a time. A command like uv run python -m recommend list-ready that outputs just the IDs needing analysis would make iteration easier.
+>   3. Already-read filtering — Should mention that I need to check candidates against read_books_with_genres.csv before adding them, or does the add command do this automatically?
+>   4. Root README — The main book-recommendations/README.md still only documents the goodreads module. Might be worth adding a section pointing to recommend/README.md for the recommendation pipeline.
+
+## Message 41
+> hold up, how is the llm supposed to handle that? for finding book 1
+
+## Message 42
+> log this in the existing section we made

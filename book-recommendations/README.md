@@ -109,3 +109,22 @@ uv run python -m goodreads genres data/read_books.csv data/read_books_with_genre
 # Analyze genres
 uv run python -m goodreads analyze data/read_books_with_genres.csv output/
 ```
+
+---
+
+## Recommendation Pipeline
+
+For generating personalized book recommendations, see the **[recommend module](recommend/README.md)**.
+
+```bash
+# Quick start
+uv run python -m recommend status                        # Check pipeline state
+uv run python -m recommend check-read "<title>" "<author>"  # Already read?
+uv run python -m recommend check-series <id>             # Resolve to Book 1
+uv run python -m recommend add <id> "<title>" "<author>" # Add candidate
+uv run python -m recommend scrape-candidates             # Fetch metadata/reviews
+uv run python -m recommend list-ready                    # Books needing analysis
+uv run python -m recommend generate-report               # Create recommendations.md
+```
+
+The recommendation system is LLM-orchestrated: Claude generates search queries, reviews candidates, and makes recommendations while Python handles scraping and data management.
