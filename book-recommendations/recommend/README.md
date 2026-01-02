@@ -260,6 +260,16 @@ library.set_recommendation(
 uv run python -m recommend generate-report
 ```
 
+**IMPORTANT: No Spoilers in Output**
+
+The final `recommendations.md` must contain **ABSOLUTELY NO SPOILERS**. This means:
+- No plot reveals, twists, or ending details
+- No character deaths or major events
+- No "the twist is..." or "at the end..."
+- Reasoning should focus on style, tone, and match to preferences
+
+Internal notes (library JSON files, analysis cache) may contain spoilers as needed for evaluation, but the user-facing report must be spoiler-free.
+
 ---
 
 ## Key Files
