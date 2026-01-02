@@ -4,11 +4,12 @@ import argparse
 import sys
 from pathlib import Path
 
-from .config import LIBRARY_DIR, TOP_CANDIDATES_FOR_REVIEW
+from .config import LIBRARY_DIR, TOP_CANDIDATES_FOR_REVIEW, REVIEWS_PER_STAR_RATING
 from .library import BookLibrary
 from .candidates import load_already_read, normalize_title, normalize_author
 from .report import generate_report, generate_status_report
-from .scrape import get_book_one, scrape_candidates
+from .scrape import get_book_one, scrape_candidates as scrape_metadata_batch
+from .scrape_playwright import scrape_reviews_batch
 
 
 def cmd_status(args: argparse.Namespace) -> int:
@@ -23,32 +24,47 @@ def cmd_scrape_candidates(args: argparse.Namespace) -> int:
     library = BookLibrary(Path(args.library))
 
     # Get candidates needing scraping
-    if args.metadata_only:
-        ids = library.get_books_needing_metadata()
-        desc = "metadata"
-    else:
-        # Get books needing either metadata or reviews
-        need_meta = set(library.get_books_needing_metadata())
-        need_reviews = set(library.get_books_needing_reviews())
-        ids = list(need_meta | need_reviews)
-        desc = "metadata and reviews"
+    need_meta = library.get_books_needing_metadata()
+    need_reviews = library.get_books_needing_reviews()
 
-    if not ids:
-        print(f"No candidates need scraping.")
+    if args.metadata_only:
+        ids = need_meta[: args.top]
+        if not ids:
+            print("No candidates need metadata.")
+            return 0
+
+        print(f"Scraping metadata for {len(ids)} candidates...")
+        count = scrape_metadata_batch(library, ids, fetch_reviews=False)
+        print(f"Successfully scraped metadata for {count} books.")
         return 0
 
-    # Limit to top N
-    ids = ids[: args.top]
-    print(f"Scraping {desc} for {len(ids)} candidates...")
+    # Full scrape: metadata first (fast, async), then reviews (Playwright)
+    all_ids = list(set(need_meta) | set(need_reviews))[: args.top]
 
-    count = scrape_candidates(
-        library,
-        ids,
-        fetch_reviews=not args.metadata_only,
-        concurrency=args.concurrency,
-    )
+    if not all_ids:
+        print("No candidates need scraping.")
+        return 0
 
-    print(f"Successfully scraped {count} books.")
+    # Step 1: Metadata via aiohttp (fast)
+    meta_ids = [gid for gid in all_ids if gid in need_meta]
+    if meta_ids:
+        print(f"Scraping metadata for {len(meta_ids)} candidates...")
+        scrape_metadata_batch(library, meta_ids, fetch_reviews=False)
+
+    # Step 2: Reviews via Playwright (balanced 1★, 3★, 5★)
+    review_ids = [gid for gid in all_ids if not library.has_reviews(gid)]
+    if review_ids:
+        print(f"Scraping reviews for {len(review_ids)} candidates (3 each from 1★, 3★, 5★)...")
+        results = scrape_reviews_batch(
+            review_ids,
+            target_stars=[5, 3, 1],
+            reviews_per_rating=REVIEWS_PER_STAR_RATING,
+        )
+        for gid, reviews in results.items():
+            library.add_reviews(gid, reviews)
+        print(f"Successfully scraped reviews for {len(results)} books.")
+
+    print(f"Done. Scraped {len(all_ids)} candidates.")
     return 0
 
 
@@ -219,15 +235,9 @@ def main() -> int:
         help=f"Maximum candidates to scrape (default: {TOP_CANDIDATES_FOR_REVIEW})",
     )
     scrape_parser.add_argument(
-        "--concurrency",
-        type=int,
-        default=5,
-        help="Number of parallel requests (default: 5)",
-    )
-    scrape_parser.add_argument(
         "--metadata-only",
         action="store_true",
-        help="Only fetch metadata, not reviews",
+        help="Only fetch metadata, not reviews (faster)",
     )
     scrape_parser.set_defaults(func=cmd_scrape_candidates)
 

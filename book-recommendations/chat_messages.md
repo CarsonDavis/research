@@ -145,3 +145,25 @@
 
 ## Message 42
 > log this in the existing section we made
+
+# Implement Playwright Scraper for Filtered Reviews
+
+## Message 43
+> hey, i'm trying to solve a goodreads scraping problem in my @book-recommendations/ basically when we get reviews i want to see multiple 3 star 1 star etc.
+>
+> double check https://github.com/greg-randall/goodreads-exporter and https://github.com/greg-randall/goodreads-get-users-books and see if there is anything in there that we can use. I know that on the actual web interface you can click on the stars to filter by rating and see only reviews from a certain star, but i don't see the url change when that happens
+
+## Message 44
+> write a couple tests to see what works
+
+## Message 45
+> just write actual python files lol
+
+## Message 46
+> try playwright first
+
+## Message 47
+> perfect. let's make sure this is all documented
+
+## Message 48
+> log this

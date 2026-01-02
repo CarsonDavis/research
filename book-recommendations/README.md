@@ -7,6 +7,9 @@ Utilities for processing Goodreads library exports.
 ```bash
 cd book-recommendations
 uv sync
+
+# Optional: Install Playwright for filtered review scraping
+uv run playwright install chromium
 ```
 
 ## Utilities

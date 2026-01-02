@@ -208,10 +208,36 @@ print(json.dumps(book, indent=2))
 "
 ```
 
-Compare reviews against user profile:
-- Do praised elements match what user loves?
-- Do criticized elements match user's hate patterns?
-- Any dealbreakers present?
+#### Checking for Dealbreakers
+
+**Read critical reviews first** (1★ and 3★). These surface problems that may match user's hate patterns.
+
+Scan for red flags from `user_profile.md`:
+
+| Review mentions... | Maps to hate pattern |
+|--------------------|----------------------|
+| "plot convenience", "characters act stupid", "dumb decisions" | Smart characters written dumb |
+| "preachy", "heavy-handed", "virtue signaling", "agenda" | Author preaching through characters |
+| "info dump", "over-explained", "told not shown" | Hand-holding / over-explanation |
+| "convenient ending", "deaths don't stick", "fake stakes" | Cheap resolutions |
+| "miscommunication", "could have just talked" | Manufactured conflict |
+| "inconsistent", "plot holes", "doesn't make sense" | Internal inconsistency |
+| "erratic power levels", "suddenly weak/strong" | Power levels changing for plot |
+| "boring", "slow", "nothing happens" + no payoff mentioned | Not compelling (check if others say payoff is worth it) |
+
+**Tier assignment:**
+- Any **single dealbreaker** → `skip` or note in `dealbreakers` field
+- Multiple minor concerns → `medium` or `try`
+- No red flags + positive matches → `high`
+
+#### Checking for Positive Matches
+
+After checking for dealbreakers, scan 5★ reviews for elements matching user's love list:
+- Immersive worldbuilding, creeping revelation
+- Characters whose actions match personality
+- Ambiguous or earned endings
+- Prose quality, quotable writing
+- Emotional impact ("I cried", "haunting")
 
 Set the recommendation:
 
@@ -244,6 +270,45 @@ uv run python -m recommend generate-report
 | `data/read_books_with_genres.csv` | Already-read books (for filtering) |
 | `library/` | Cached data (candidates, metadata, reviews) |
 | `output/recommendations.md` | Final recommendations |
+
+---
+
+## Review Scraping
+
+The `scrape-candidates` command collects **3 reviews each from 1★, 3★, and 5★ ratings** (9 reviews total per book).
+
+This balanced approach ensures we capture:
+- **1★ reviews**: Dealbreakers, fundamental issues
+- **3★ reviews**: Nuanced criticism, "good but..." feedback
+- **5★ reviews**: What works, positive matches to love list
+
+### How it works
+
+1. **Metadata** is fetched via fast async HTTP requests
+2. **Reviews** are fetched via Playwright (headless browser) which:
+   - Loads the Goodreads book page
+   - Clicks the rating histogram bars to filter by star rating
+   - Extracts reviews from each filtered view
+   - Repeats for 5★, 3★, and 1★
+
+### Speed
+
+- Metadata: ~1-2 seconds per book
+- Reviews: ~5-10 seconds per book (Playwright needs to render and click)
+
+For faster metadata-only scraping:
+```bash
+uv run python -m recommend scrape-candidates --metadata-only --top 50
+```
+
+### Dependencies
+
+Playwright requires browser binaries. Install with:
+
+```bash
+uv add playwright
+uv run playwright install chromium
+```
 
 ---
 

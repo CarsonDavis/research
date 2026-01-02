@@ -564,18 +564,34 @@ For each top candidate (by score), fetch reviews from multiple star ratings:
 - 2-3 three-star reviews (balanced takes, often most informative)
 - 2-3 one-star reviews (what critics hate — check against user's hates)
 
-**Scraping Approach**:
-```
-Base URL: https://www.goodreads.com/book/show/{goodreads_id}
+**Scraping Approaches**:
 
-Extract from each review:
-- Star rating
-- Review text
+There are two scrapers available:
+
+1. **Default (aiohttp)**: Fast (~1s/book) but only gets the ~30 reviews initially loaded on the page, heavily biased toward 5-star reviews.
+
+2. **Playwright**: Slower (~5-10s/book) but can filter reviews by star rating by clicking the rating histogram bars in the UI. Use this when you need balanced reviews across star ratings.
+
+```python
+# Playwright scraper for filtered reviews
+from recommend.scrape_playwright import scrape_reviews_for_book
+
+reviews = scrape_reviews_for_book(
+    goodreads_id="54493401",
+    target_stars=[5, 3, 1],
+    reviews_per_rating=3,
+)
+# Returns: {"5_star": [...], "3_star": [...], "1_star": [...]}
 ```
+
+The Playwright scraper works by:
+1. Loading the book page in headless Chromium
+2. Clicking `[data-testid="ratingBar-N"]` (histogram bars) to filter by rating
+3. Extracting reviews from the filtered view
 
 **Rate Limiting**:
 - 1-2 second delay between requests
-- Max 5 concurrent requests
+- Max 5 concurrent requests (aiohttp only; Playwright is sequential)
 
 ### 3B. Review Theme Extraction
 
