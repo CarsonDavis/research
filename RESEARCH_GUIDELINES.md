@@ -4,20 +4,20 @@ Structured research on various topics.
 
 ## Overview
 
-Research follows four steps:
+Research follows four phases:
 
-1. **Requirements Gathering** (if needed) - Clarify constraints before diving in
-2. **Setup** - Create folder and files
-3. **Research** - Search systematically, log findings incrementally
-4. **Synthesis** - Distill into a final report
+0. **Requirements Gathering** (optional) - Clarify constraints before diving in
+1. **Setup** - Create folder and files
+2. **Research** - Search systematically, log findings incrementally
+3. **Synthesis** - Distill into a final report
 
-Each topic gets its own folder. The separation of raw research (background.md) from clean output (report.md) keeps the mess of exploration separate from the final deliverable.
+Each topic gets its own folder. The separation of raw research (background.md) from clean output (report.md) allows you to gather tons of information and log it carefully so it can be referenced later, while still providing a clean report.
 
 ## Structure
 
 ```
 {topic}/
-├── requirements.md    # User constraints and context (if needed)
+├── requirements.md    # User constraints and context (optional)
 ├── background.md      # Raw research notes, citations, excerpts
 └── report.md          # Final distilled writeup
 ```
@@ -29,10 +29,10 @@ For comparison research (evaluating multiple options):
 ├── research_overview.md   # Criteria, sources, methodology
 ├── {option_1}.md          # Notes on each option
 ├── {option_2}.md
-└── comparison_report.md   # Final analysis
+└── report.md   # Final analysis
 ```
 
-## Requirements Gathering
+## Phase 0: Requirements Gathering (Optional)
 
 If the research topic is ambiguous or has unstated constraints, clarify before diving in.
 
@@ -43,10 +43,9 @@ If the research topic is ambiguous or has unstated constraints, clarify before d
 Examples of things to clarify:
 - Budget or price constraints
 - Must-have vs nice-to-have features
-- Specific use case or context
-- Who the output is for
+- Specific use case or contextts
 
-Skip this step if the request is already clear and specific.
+Skip this phase if the request is already clear and specific.
 
 ## Phase 1: Setup
 
@@ -60,8 +59,6 @@ Before any research, create the folder and files.
    - Empty `## Sources` section
    - Empty `## Key Findings` section
 3. If requirements were gathered, ensure `requirements.md` captures user constraints
-
-For comparison research, also create `research_overview.md` with criteria and methodology.
 
 ## Phase 2: Research
 
