@@ -56,12 +56,20 @@ Skip this step if the request is already clear and specific.
 
 1. **Use open-ended queries** - Don't pre-specify expected answers
 2. **Prioritize quality sources** - Target reputable sites for the domain (journals, official docs, expert forums)
-3. **Run multiple searches** - Different angles surface different findings
+3. **Cover multiple angles** - Plan 5-10 initial searches across these categories:
+   - Core concepts and definitions
+   - Current best practices
+   - Common challenges and solutions
+   - Recent developments and trends
+   - Authoritative sources (official docs, academic papers, expert opinions)
 4. **Note contradictions** - When sources disagree, capture both views
 5. **Match source age to topic velocity**:
    - Fast-moving fields (tech, pricing, current events) → prioritize recent sources
    - Stable domains (history, established science) → older authoritative sources still valuable
    - Mixed topics → recent for current state, older for foundational context
+6. **Create targeted searches**:
+   - After your initial searches you will learn of topics and angles that need to be searched more deeply.
+   - Create a second round of searches based on the information you have gathered so far. 
 
 ### Adding to Background Files
 
