@@ -2,9 +2,16 @@
 
 Structured research on various topics.
 
-## Philosophy
+## Overview
 
-Each topic gets its own folder. Research happens in two phases: gather everything into background notes, then distill into a final report. This separation keeps the mess of research separate from the clean output.
+Research follows four steps:
+
+1. **Requirements Gathering** (if needed) - Clarify constraints before diving in
+2. **Setup** - Create folder and files
+3. **Research** - Search systematically, log findings incrementally
+4. **Synthesis** - Distill into a final report
+
+Each topic gets its own folder. The separation of raw research (background.md) from clean output (report.md) keeps the mess of exploration separate from the final deliverable.
 
 ## Structure
 
@@ -36,50 +43,74 @@ If the research topic is ambiguous or has unstated constraints, clarify before d
 Examples of things to clarify:
 - Budget or price constraints
 - Must-have vs nice-to-have features
-- Timeline or urgency
 - Specific use case or context
 - Who the output is for
 
 Skip this step if the request is already clear and specific.
 
-## Research Phase
+## Phase 1: Setup
 
-### Workflow
+Before any research, create the folder and files.
 
-1. **Create the background file first** - Before any research, create the file
-2. **Research one aspect at a time** - For each topic, research sources, consolidate, then write
-3. **Add findings immediately** - Edit the background file after each source
-4. **Cite sources** - Within a topic, note which source each fact came from
-5. **Repeat** - Build incrementally; this lets you steer as you go
+### Checklist
 
-### How to Search
+1. Create a folder for the topic (lowercase with hyphens, e.g., `message-queue-comparison`)
+2. Create `background.md` with:
+   - Header with research topic and date
+   - Empty `## Sources` section
+   - Empty `## Key Findings` section
+3. If requirements were gathered, ensure `requirements.md` captures user constraints
 
-1. **Use open-ended queries** - Don't pre-specify expected answers
-2. **Prioritize quality sources** - Target reputable sites for the domain (journals, official docs, expert forums)
-3. **Cover multiple angles** - Plan 5-10 initial searches across these categories:
-   - Core concepts and definitions
-   - Current best practices
-   - Common challenges and solutions
-   - Recent developments and trends
-   - Authoritative sources (official docs, academic papers, expert opinions)
-4. **Note contradictions** - When sources disagree, capture both views
-5. **Match source age to topic velocity**:
-   - Fast-moving fields (tech, pricing, current events) → prioritize recent sources
-   - Stable domains (history, established science) → older authoritative sources still valuable
-   - Mixed topics → recent for current state, older for foundational context
-6. **Create targeted searches**:
-   - After your initial searches you will learn of topics and angles that need to be searched more deeply.
-   - Create a second round of searches based on the information you have gathered so far. 
+For comparison research, also create `research_overview.md` with criteria and methodology.
 
-### Adding to Background Files
+## Phase 2: Research
+
+### Planning Searches
+
+Plan 5-10 initial searches across these categories:
+- Core concepts and definitions
+- Current best practices
+- Common challenges and solutions
+- Recent developments and trends
+- Authoritative sources (official docs, academic papers, expert opinions)
+
+### Search Principles
+
+- **Use open-ended queries** - Don't pre-specify expected answers
+- **Prioritize quality sources** - Target reputable sites for the domain (journals, official docs, expert forums)
+- **Note contradictions** - When sources disagree, capture both views
+- **Match source age to topic velocity**:
+  - Fast-moving fields (tech, pricing, current events) → prioritize recent sources
+  - Stable domains (history, established science) → older authoritative sources still valuable
+  - Mixed topics → recent for current state, older for foundational context
+
+### After Each Search
+
+After each search that yields useful results:
+
+1. Append findings to `background.md` immediately—don't wait
+2. Log the search query used
+3. Record key information with source attribution
+4. Note any follow-up questions or related topics discovered
+
+If a search yields nothing useful, note this briefly and move on.
+
+### Targeted Searches
+
+After initial searches, you'll discover topics needing deeper exploration. Create a second round of searches based on what you've learned—use the follow-up questions you noted.
+
+### Background File Format
 
 - Organize by topic with `## Section` headers
 - Bold key findings for scannability
-- Use markdown reference-style links at the end of each section
+- Use markdown reference-style links at end of each section
 - Include publication/source in link text: `([Source: Title][1])`
+- Include dates for time-sensitive information (pricing, versions, market data)
 - Preserve nuance—don't flatten "debated" into "confirmed"
+- Cross-reference important claims across multiple sources
+- Be explicit about gaps—note when information is unavailable or uncertain
 
-## Report Phase
+## Phase 3: Synthesis
 
 ### Executive Summary
 
@@ -102,16 +133,8 @@ Avoid tables for subjective assessments (ease of use, quality, value). Those bel
 
 ### Tone
 
-Write for a general audience while preserving rigor. Engaging without being overblown—no breathless superlatives but also no dry recitation. Let the material carry the interest.
+Write for a general audience while preserving rigor. Engaging without being overblown—no breathless superlatives but also no dry recitation.
 
 - **Accessible** - Avoid jargon; when technical terms are necessary, provide context
 - **Grounded** - Stick to what the evidence supports; flag uncertainty honestly
 - **Restrained** - Trust the reader; no hype, no hedging everything into mush
-
-### Workflow
-
-1. Gather research in background files
-2. Identify the core question the report answers
-3. Distill into final report with summary up front
-4. Add comparison tables where objective factors allow
-5. Keep it concise—shorter is usually better
